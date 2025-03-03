@@ -2,7 +2,7 @@
 This repo providing a s6-overlay base image
 
 For more info for S6-overlay
-[a link] (https://github.com/just-containers/s6-overlay)
+https://github.com/just-containers/s6-overlay
 ## Usage
 
 ```Dockerfile
